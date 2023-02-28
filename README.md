@@ -1,5 +1,7 @@
 # HelloWorld
 
+Lab Exercise: "Hello World!" Pure Spring App (without Boot)
+
 # Made by:
 
 Ramankulov Aziret COM-21B
