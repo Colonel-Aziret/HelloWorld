@@ -1,6 +1,7 @@
 # HelloWorld
 
 Lab Exercise: "Hello World!" Pure Spring App (without Boot)
+http://localhost:8080/hello-world
 
 # Made by:
 
